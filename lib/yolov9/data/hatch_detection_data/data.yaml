@@ -1,0 +1,5 @@
+train: ./data/hatch_detection_data/train/images
+val: ./data/hatch_detection_data/valid/images
+
+nc: 2
+names: ['hatch', 'label']

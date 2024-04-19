@@ -1,0 +1,5 @@
+.DS_store
+data/samples
+env
+*__pycache__*
+*.ipynb_checkpoints

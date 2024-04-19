@@ -1,0 +1,10 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+legend,3770,103,445,695,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch1,3847,245,60,47,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch2,3844,301,67,47,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch3,3844,357,63,47,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch4,3856,426,49,45,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch5,3854,486,54,44,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch6,3851,546,54,47,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch7,3851,200,54,35,AMS13_A-E-100_Ground Floor RCP.png,4680,3311
+hatch8,3851,160,54,26,AMS13_A-E-100_Ground Floor RCP.png,4680,3311

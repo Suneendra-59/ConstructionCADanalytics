@@ -1,0 +1,5 @@
+train: ./data/legend_data/train/images
+val: ./data/legend_data/valid/images
+
+nc: 1
+names: ['Legend']

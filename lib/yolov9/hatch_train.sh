@@ -1,0 +1,1 @@
+python train_dual.py --workers 8 --device 0 --batch 2 --data data/hatch_detection_data/data.yaml --img 1280 --cfg models/detect/yolov9-e.yaml --weights ../../weights/legend_detection_best.pt --name yolov9eHatch --hyp hyp.scratch-high.yaml --min-items 0 --epochs 300 --close-mosaic 15

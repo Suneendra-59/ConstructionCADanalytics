@@ -1,0 +1,2 @@
+weights/legend_detection_best.pt filter=lfs diff=lfs merge=lfs -text
+weights/hatch_detection_best.pt filter=lfs diff=lfs merge=lfs -text

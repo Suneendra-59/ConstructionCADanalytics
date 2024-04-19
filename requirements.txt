@@ -1,0 +1,7 @@
+gradio
+gradio_pdf
+pandas
+pymupdf
+opencv-python-headless
+bbox_visualizer2
+-r lib/yolov9/requirements.txt
